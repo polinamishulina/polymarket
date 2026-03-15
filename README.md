@@ -9,7 +9,7 @@ This repository contains the code and data for a Computational Social Science pr
 - Cleaning and preprocessing of raw data (rule-based NLP, LDA, NMF)
 
 **`polymarket_analysis.R`** — Statistical modeling
-- Exploratory data analysis and plots
+- Exploratory data analysis
 - Regression models and estimation
 - Robustness checks
 
