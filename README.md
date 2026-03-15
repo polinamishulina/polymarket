@@ -4,7 +4,7 @@ This repository contains the code and data for a Computational Social Science pr
 
 ## Repository Structure
 
-**`polymarket_data.ipynb`** — Data processing and visualization
+**`polymarket_data.ipynb`** — Data processing
 - Data collection via API (Polymarket Gamma API)
 - Cleaning and preprocessing of raw data (rule-based NLP, LDA, NMF)
 
